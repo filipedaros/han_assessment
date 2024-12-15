@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HTIsO6khRECZTc0nyMftx73YFjvDaSMTXKcqsvMXJdM=",
+  "Source": "hahn.api",
+  "BasePath": "_content/hahn.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

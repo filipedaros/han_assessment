@@ -1,0 +1,11 @@
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\bin\Debug\net9.0\hahn.domain.deps.json
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\bin\Debug\net9.0\hahn.domain.dll
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\bin\Debug\net9.0\hahn.domain.pdb
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\obj\Debug\net9.0\hahn.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\obj\Debug\net9.0\hahn.domain.AssemblyInfoInputs.cache
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\obj\Debug\net9.0\hahn.domain.AssemblyInfo.cs
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\obj\Debug\net9.0\hahn.domain.csproj.CoreCompileInputs.cache
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\obj\Debug\net9.0\hahn.domain.dll
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\obj\Debug\net9.0\refint\hahn.domain.dll
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\obj\Debug\net9.0\hahn.domain.pdb
+C:\Users\filip\RiderProjects\Hahn\hahn.domain\obj\Debug\net9.0\ref\hahn.domain.dll
