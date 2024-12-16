@@ -21,6 +21,7 @@ GlobalConfiguration.Configuration
     .UseActivator(new HangfireActivator(builder.Services.BuildServiceProvider()))
     .UseSqlServerStorage(Environment.GetEnvironmentVariable("SQL_CONNECTION_STRING"));
 
+//Change to hourly here. Even better is to store the jobs parameter in a settings file.
 RecurringJob.AddOrUpdate<IImportCountriesJob>("import_countries", (job) => job.Run(), Cron.MinuteInterval(1));
 
 
