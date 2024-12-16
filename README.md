@@ -1,10 +1,12 @@
 # Hahn assessment - Project structure
 
+API used: https://countries-api-abhishek.vercel.app/countries
+
 ## hahn.api
 Minimal API project
 
 ## hahn.application
-Used by han.api and hanh.worker.jobs. Contains the commands e queries of the system.
+This file is used by hanh. API and hanh.worker.jobs. It contains the system's commands and queries.
 
 ## hahn.infrastrcture
 Used by han.application. Contains the persistence classes and migrations;
@@ -13,7 +15,10 @@ Used by han.application. Contains the persistence classes and migrations;
 Domain classes and contracts.
 
 ## hahn.worker
-Wire up the hangfire and shedules the jobs
+Wire up the hangfire and schedule the jobs
 
 ## hahn.jobs
 Jobs classes used by the worker project.
+
+## hahn.presentation
+Vue project used to show the list of imported countries.
